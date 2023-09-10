@@ -1,7 +1,6 @@
 # Placed Unplaced Model
 
-![Project Banner](![image](https://github.com/durgeshanalyst/Placed-Unplaced-Model-Creation/assets/109127584/fecdabff-8d4a-4aa0-8bea-12eba667bec4)
-)
+![Project Banner](https://img.freepik.com/free-photo/front-view-young-beautiful-lady-red-t-shirt-black-jeans-holding-different-copybooks-files-smiling-with-bag-white_140725-18639.jpg?w=1060&t=st=1694343443~exp=1694344043~hmac=29e6d73ad86d51b72dc98f4e5d617cbff6c54ab3148d2bb0c3d2d121200f68e0)
 
 ## Introduction
 
@@ -88,7 +87,7 @@ Overall, this project demonstrates the application of machine learning technique
 
 ## Contributors
 
-- Durgesh Kumar
+- Durgesh Kumar[https://github.com/durgeshanalyst]
 - Kartikeya Baijal [https://github.com/Kartikeya101]
 
 Thank you for your interest in the Placed Unplaced Model project. Feel free to contribute or provide feedback. Your insights are valuable to us!
